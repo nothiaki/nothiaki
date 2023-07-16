@@ -27,10 +27,3 @@
   <img height="150cm" src="https://github-readme-stats.vercel.app/api?username=NotHiaki&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
   <img height="150cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NotHiaki&layout=compact&langs_count=7&theme=github_dark" />
 </div>
-<div align="center">
-  <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/nothiaki/nothiaki/raw/output/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/nothiaki/nothiaki/raw/output/github-snake.svg">
-  <img alt="snk" src="https://github.com/nothiaki/nothiaki/raw/output/github-snake.svg">
-</picture>
-</div>

@@ -6,9 +6,8 @@
   <img align="left" src="https://media.tenor.com/t6-n6HOctngAAAAd/dog-funny-dog.gif" width="120" height="120" />
   <img align="left" src="https://media.tenor.com/wuyEcsxrvQwAAAAC/club-penguin-ghosthy.gif" width="120" height="120" />
   <img align="left" src="https://media.tenor.com/NQfq1liFH-8AAAAd/byuntear-sad.gif" width="120" height="120" />
-  <img align="left" src="https://media.tenor.com/0uH-7lWWyGgAAAAi/discord-emoji.gif" width="120" height="120" />
-  <a href="https://i.redd.it/pcf41calx0y51.jpg" title="Enter the portal">
-    <img src="https://static.wikia.nocookie.net/minecraft/images/f/fd/NetherPortalAnimated.gif/revision/latest?cb=20200112000746" align="right" width="80" /><br>
+  <a href="https://celso-henrique.vercel.app/" title="Enter the portal">
+    <img src="https://static.wikia.nocookie.net/minecraft/images/f/fd/NetherPortalAnimated.gif/revision/latest?cb=20200112000746" align="right" width="100" /><br>
   </a>
   <br />
   <br />

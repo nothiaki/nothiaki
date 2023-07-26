@@ -19,7 +19,7 @@
   
   ## Skills
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=next,js,html,css,git,github,vscode,linux,bots,powershell" />
+    <img src="https://skillicons.dev/icons?i=next,react,tailwind,js,html,css,git" />
   </a>
 </div>
 <div align="center">

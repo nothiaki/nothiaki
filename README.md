@@ -26,3 +26,5 @@
   <img height="150cm" src="https://github-readme-stats.vercel.app/api?username=NotHiaki&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
   <img height="150cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NotHiaki&layout=compact&langs_count=7&theme=github_dark" />
 </div>
+
+![Snake animation](https://github.com/NotHiaki/NotHiaki/blob/output/github-contribution-grid-snake.svg)

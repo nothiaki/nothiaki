@@ -27,4 +27,4 @@
   <img height="150cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NotHiaki&layout=compact&langs_count=7&theme=github_dark" />
 </div>
 
-<img alt="snake" src="https://raw.githubusercontent.com/NotHiaki/NotHiaki/output/github-contribution-grid-snake.svg" />
+<img alt="snakes" src="https://raw.githubusercontent.com/NotHiaki/NotHiaki/output/github-contribution-grid-snake.svg" />

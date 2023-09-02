@@ -1,7 +1,7 @@
 <div>
 
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=next,react,tailwind,js,html,css,git,vscode,powershell,linux,github,figma" />
+    <img src="https://skillicons.dev/icons?i=js,tailwind,html,css,git,linux,vscode,github" />
   </a>
 </div>
 <div>

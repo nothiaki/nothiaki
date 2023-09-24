@@ -1,13 +1,13 @@
 <div>
 
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,tailwind,html,css,git,linux,vscode,github" />
+    <img src="https://skillicons.dev/icons?i=nodejs,js,tailwind,git,linux,vscode,github" />
   </a>
 </div>
 <div>
   <img height="150cm" src="https://github-readme-stats.vercel.app/api?username=NotHiaki&count_private=true&show_icons=true&theme=github_dark&rank_icon=github&border_radius=12" alt="readme stats" />
   <img height="150cm" alt="readme stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NotHiaki&layout=compact&langs_count=7&theme=github_dark&border_radius=10" />
-  <a href="https://celsohenrique.vercel.app/" title="Enter the portal">
+  <a href="https://hiaki.vercel.app/" title="Enter the portal">
     <img src="https://static.wikia.nocookie.net/minecraft/images/f/fd/NetherPortalAnimated.gif/revision/latest?cb=20200112000746" align="right" width="90" /><br>
   </a>
 </div>

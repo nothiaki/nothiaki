@@ -1,9 +1,15 @@
-## **Hi there, I'm Celso Henrique👋**
-
-Studying to become a full-stack developer📚💻<br>
-I'm 17 years old.🕰️⏳<br>
-
-Visit my [website](https://nothiaki.github.io)<br>
-Send me an [email](mailto:celsohenrique367@gmail.com)<br>
-Check my [Linkedin](https://www.linkedin.com/in/hiaki)<br>
-Consider [buy me a coffee](https://www.buymeacoffee.com/hiaki)<br>
+<samp>
+  <h3>Hi there, I'm Celso Henrique🤠</h3>
+  
+  Studying to become a full-stack developer📚💻<br>
+  I'm 17 years old.🕰⏳<br>
+</samp>
+<p>
+    <samp>
+      [<a href="mailto:celsohenrique367@gmail.com">e-mail</a>]
+      [<a href="https://nothiaki.github.io">website</a>]
+      [<a href="https://www.buymeacoffee.com/hiaki">buy me a coffee</a>]
+      [<a href="https://www.linkedin.com/in/hiaki/">linkedin</a>]
+      [<a href="https://www.pixme.bio/hiaki">pixme.bio</a>]
+    </samp>
+</p>

@@ -1,15 +1,25 @@
 <samp>
-  <h3>Hi there, I'm Celso Henrique🤠</h3>
+  Hi there, I'm Celso Henrique<br>
+  ============================
+
+  about me:<br>
+    - brazilian, 17 yo<br>
+    - pt-br + learning english<br>
+    - working as programming and robotic teacher<br>
+    - studying to be a software engineer with focus on backend
+
+  skills:<br>
+    - typescript<br>
+    - golang<br>
+    - sql<br>
+
+  os:<br>
+    - archlinux
   
-  Studying to become a full-stack developer📚💻<br>
-  I'm 17 years old.🕰⏳<br>
+  contact:<br>
+    - <a href="mailto:celsohenrique367@gmail.com">e-mail</a><br>
+    - <a href="https://nothiaki.github.io">website</a><br>
+    - <a href="https://www.buymeacoffee.com/hiaki">buy me a coffee</a><br>
+    - <a href="https://www.linkedin.com/in/hiaki/">linkedin</a><br>
+    - <a href="https://www.pixme.bio/hiaki">pixme.bio</a>
 </samp>
-<p>
-    <samp>
-      [<a href="mailto:celsohenrique367@gmail.com">e-mail</a>]
-      [<a href="https://nothiaki.github.io">website</a>]
-      [<a href="https://www.buymeacoffee.com/hiaki">buy me a coffee</a>]
-      [<a href="https://www.linkedin.com/in/hiaki/">linkedin</a>]
-      [<a href="https://www.pixme.bio/hiaki">pixme.bio</a>]
-    </samp>
-</p>

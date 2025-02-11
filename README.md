@@ -3,23 +3,22 @@
   ============================
 
   about me:<br>
-    - brazilian, 17 yo<br>
-    - pt-br + learning english<br>
-    - working as programming and robotic teacher<br>
-    - studying to be a software engineer with focus on backend
+    - brazilian, 18 yo<br>
+    - pt-br, english<br>
 
   skills:<br>
-    - typescript<br>
-    - golang<br>
-    - sql<br>
+    - Nest
+    - TS/JS<br>
+    - Redis, Kafka<br>
+    - PostgreSQL<br>
+    - React
+    - Linux
 
-  os:<br>
-    - archlinux
+  current os:<br>
+    - archlinux with i3wm
   
   contact:<br>
     - <a href="mailto:celsohenrique367@gmail.com">e-mail</a><br>
     - <a href="https://nothiaki.github.io">website</a><br>
-    - <a href="https://www.buymeacoffee.com/hiaki">buy me a coffee</a><br>
     - <a href="https://www.linkedin.com/in/hiaki/">linkedin</a><br>
-    - <a href="https://www.pixme.bio/hiaki">pixme.bio</a>
 </samp>

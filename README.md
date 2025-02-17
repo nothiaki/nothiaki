@@ -7,8 +7,8 @@
     - pt-br, english<br>
 
   skills:<br>
-    - Nest
-    - TS/JS<br>
+    - Nest, SpringBoot
+    - TS, Java<br>
     - Redis, Kafka<br>
     - PostgreSQL<br>
     - React
